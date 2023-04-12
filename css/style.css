@@ -1,0 +1,32 @@
+# {
+    background-color: blanchedalmond;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: lightblue;
+}
+
+main {
+    background-color: slategray;
+}
+
+main > section {
+
+}
+
+main img {
+
+}
+
+footer {
+    background-color: lightcyan;
+}
+
+article {
+
+}
+
+article section {
+    
+}
